@@ -4,4 +4,3 @@ def call() {
 	
     return gitRepoName
 }
-출처: https://naro-security.tistory.com/56#article-3-3-3--3--sonarqube-설치 [naroSEC:티스토리]
